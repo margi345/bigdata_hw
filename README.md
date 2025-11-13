@@ -118,6 +118,9 @@ The app opens at:
 👉 http://localhost:8501
 
 5. Screenshots:
-![dashboard](C:\Users\margi\OneDrive\Pictures\Screenshots\dashboard.png)
-![average volume by ticker](C:\Users\margi\OneDrive\Pictures\Screenshots\average volume by ticker.png)
-![diffrent data range](C:\Users\margi\OneDrive\Pictures\Screenshots\diffrent date range and ticker.png)
+1.screenshots\dashboard.png
+2.screenshots\dailyaverage closepricebyticker.png
+3.screenshots\dailyreturnbyticker.png
+4.screenshots\diffrentdaterange andticker.png
+5.screenshots\average_volumebyticker.png
+
