@@ -118,9 +118,15 @@ The app opens at:
 👉 http://localhost:8501
 
 5. Screenshots:
-1.screenshots\dashboard.png
-2.screenshots\dailyaverage closepricebyticker.png
-3.screenshots\dailyreturnbyticker.png
-4.screenshots\diffrentdaterange andticker.png
-5.screenshots\average_volumebyticker.png
+## 📸 Screenshots
+
+### 📊 Default Dashboard View
+![Dashboard](screenshots\dashboard.png)
+
+### 📉 Average Volume by Ticker
+![Average Volume](screenshots\average_volumebyticker.png)
+
+### 📅 Date Range & Ticker Filter
+![Date Filter](screenshots\diffrentdaterange andticker.png)
+
 
